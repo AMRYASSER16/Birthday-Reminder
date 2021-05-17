@@ -1,0 +1,19 @@
+.li{
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.li span{
+    display: block;
+    margin: 10px 12px;
+    font-weight: 500;
+}
+
+.li > span:last-child{
+    margin-left: 0;
+}
+
+.li span img{
+    border-radius: 50%;
+}

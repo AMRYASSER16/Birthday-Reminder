@@ -1,0 +1,13 @@
+.main{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul{
+    list-style: none;
+    padding-left: 0;
+    height: 410px;
+    overflow-y: scroll;
+}
